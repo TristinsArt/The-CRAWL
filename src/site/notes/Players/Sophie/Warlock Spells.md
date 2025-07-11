@@ -28,13 +28,13 @@
 # 1st Level
 - [ ] [[Spells/Armor of Agathys\|Armor of Agathys]]
 - [ ] [[Spells/Arms of Hadar\|Arms of Hadar]]
-- [ ] [[Spells/Bane\|Bane]] :LiSkull:
+- [ ] _**[[Spells/Bane\|Bane]]**_
 - [ ] [[Spells/Cause Fear\|Cause Fear]]
 - [ ] [[Spells/Charm Person\|Charm Person]]
 - [ ] [[Spells/Comprehend Languages\|Comprehend Languages]]
 - [ ] [[Spells/Distort Value\|Distort Value]]
 - [ ] [[Spells/Expeditious Retreat\|Expeditious Retreat]]
-- [ ] [[Spells/False Life\|False Life]] :LiSkull:
+- [ ] _**[[Spells/False Life\|False Life]]**_
 - [ ] [[Spells/Hellish Rebuke\|Hellish Rebuke]]
 - [ ] [[Spells/Hex\|Hex]]
 - [ ] [[Spells/Illusory Script\|Illusory Script]]
@@ -43,7 +43,7 @@
 - [ ] [[Spells/Witch Bolt\|Witch Bolt]]
 
 # 2nd Level
-- [ ] [[Spells/Blindness-Deafness\|Blindness-Deafness]] :LiSkull:
+- [ ] _**[[Spells/Blindness-Deafness\|Blindness-Deafness]]**_
 - [ ] [[Spells/Borrowed Knowledge\|Borrowed Knowledge]]
 - [ ] [[Spells/Cloud of Daggers\|Cloud of Daggers]]
 - [ ] [[Spells/Crown of Madness\|Crown of Madness]]
@@ -55,7 +55,7 @@
 - [ ] [[Spells/Mind Spike\|Mind Spike]]
 - [ ] [[Spells/Mirror Image\|Mirror Image]]
 - [ ] [[Spells/Misty Step\|Misty Step]]
-- [ ] [[Spells/Phantasmal Force\|Phantasmal Force]] :LiSkull:
+- [ ] _**[[Spells/Phantasmal Force\|Phantasmal Force]]**_
 - [ ] [[Spells/Ray of Enfeeblement\|Ray of Enfeeblement]]
 - [ ] [[Spells/Shadow Blade\|Shadow Blade]]
 - [ ] [[Spells/Shatter\|Shatter]]
@@ -78,9 +78,9 @@
 - [ ] [[Spells/Intellect Fortress\|Intellect Fortress]]
 - [ ] [[Spells/Magic Circle\|Magic Circle]]
 - [ ] [[Spells/Major Image\|Major Image]]
-- [ ] [[Spells/Phantom Steed\|Phantom Steed]] :LiSkull:
+- [ ] _**[[Spells/Phantom Steed\|Phantom Steed]]**_
 - [ ] [[Spells/Remove Curse\|Remove Curse]]
-- [ ] [[Spells/Speak with Dead\|Speak with Dead]] :LiSkull:
+- [ ] _**[[Spells/Speak with Dead\|Speak with Dead]]**_
 - [ ] [[Spells/Spirit Shroud\|Spirit Shroud]]
 - [ ] [[Spells/Summon Fey\|Summon Fey]]
 - [ ] [[Spells/Summon Lesser Demons\|Summon Lesser Demons]]
@@ -94,11 +94,11 @@
 - [ ] [[Spells/Banishment\|Banishment]]
 - [ ] [[Spells/Blight\|Blight]]
 - [ ] [[Spells/Charm Monster\|Charm Monster]]
-- [ ] [[Spells/Death Ward\|Death Ward]] :LiSkull:
+- [ ] _**[[Spells/Death Ward\|Death Ward]]**_
 - [ ] [[Spells/Dimension Door\|Dimension Door]]
 - [ ] [[Spells/Elemental Bane\|Elemental Bane]]
 - [ ] [[Spells/Gate Seal\|Gate Seal]]
-- [ ] [[Spells/Greater Invisibility\|Greater Invisibility]] :LiSkull:
+- [ ] _**[[Spells/Greater Invisibility\|Greater Invisibility]]**_
 - [ ] [[Spells/Hallucinatory Terrain\|Hallucinatory Terrain]]
 - [ ] [[Spells/Raulothim's Psychic Lance\|Raulothim's Psychic Lance]]
 - [ ] [[Spells/Shadow of Moil\|Shadow of Moil]]
@@ -108,8 +108,8 @@
 - [ ] [[Spells/Summon Greater Demon\|Summon Greater Demon]]
 
 # 5th Level
-- [ ] [[Spells/Antilife Shell\|Antilife Shell]] :LiSkull:
-- [ ] [[Spells/Cloudkill\|Cloudkill]] :LiSkull:
+- [ ] _**[[Spells/Antilife Shell\|Antilife Shell]]**_
+- [ ] _**[[Spells/Cloudkill\|Cloudkill]]**_
 - [ ] [[Spells/Contact Other Plane\|Contact Other Plane]]
 - [ ] [[Spells/Danse Macabre\|Danse Macabre]]
 - [ ] [[Spells/Dream\|Dream]]

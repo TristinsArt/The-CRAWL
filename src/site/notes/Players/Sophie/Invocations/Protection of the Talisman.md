@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/players/sophie/invocations/protection-of-the-talisman/","noteIcon":""}
+{"dg-publish":true,"permalink":"/players/sophie/invocations/protection-of-the-talisman/"}
 ---
 
 **Level Required:** 7  

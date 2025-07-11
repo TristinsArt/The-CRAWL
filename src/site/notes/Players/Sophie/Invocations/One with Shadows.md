@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/players/sophie/invocations/one-with-shadows/","noteIcon":""}
+{"dg-publish":true,"permalink":"/players/sophie/invocations/one-with-shadows/"}
 ---
 
 **Level Required:** 5  

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/players/sophie/invocations/undying-servitude/","noteIcon":""}
+{"dg-publish":true,"permalink":"/players/sophie/invocations/undying-servitude/"}
 ---
 
 **Level Required:** 5  

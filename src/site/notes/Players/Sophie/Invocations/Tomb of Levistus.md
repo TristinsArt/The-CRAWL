@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/players/sophie/invocations/tomb-of-levistus/","noteIcon":""}
+{"dg-publish":true,"permalink":"/players/sophie/invocations/tomb-of-levistus/"}
 ---
 
 **Level Required:** 5  

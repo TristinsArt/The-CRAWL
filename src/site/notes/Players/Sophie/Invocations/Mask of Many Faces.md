@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/players/sophie/invocations/mask-of-many-faces/","noteIcon":""}
+{"dg-publish":true,"permalink":"/players/sophie/invocations/mask-of-many-faces/"}
 ---
 
 **Level Required:** 2  

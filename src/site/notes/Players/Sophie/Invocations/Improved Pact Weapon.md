@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/players/sophie/invocations/improved-pact-weapon/","noteIcon":""}
+{"dg-publish":true,"permalink":"/players/sophie/invocations/improved-pact-weapon/"}
 ---
 
 **Level Required:** 2  

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/players/austin/fighting-styles/superior-technique/","noteIcon":""}
+{"dg-publish":true,"permalink":"/players/austin/fighting-styles/superior-technique/"}
 ---
 
 You learn one maneuver of your choice from among those available to the Battle Master archetype. If a maneuver you use requires your target to make a saving throw to resist the maneuver's effects, the saving throw DC equals 8 + your proficiency bonus + your Strength or Dexterity modifier (your choice).

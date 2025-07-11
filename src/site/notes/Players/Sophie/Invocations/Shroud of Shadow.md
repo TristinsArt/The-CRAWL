@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/players/sophie/invocations/shroud-of-shadow/","noteIcon":""}
+{"dg-publish":true,"permalink":"/players/sophie/invocations/shroud-of-shadow/"}
 ---
 
 **Level Required:** 15  

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/players/sophie/invocations/thief-of-five-fates/","noteIcon":""}
+{"dg-publish":true,"permalink":"/players/sophie/invocations/thief-of-five-fates/"}
 ---
 
 **Level Required:** 2  

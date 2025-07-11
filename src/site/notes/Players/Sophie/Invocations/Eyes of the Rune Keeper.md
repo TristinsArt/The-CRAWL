@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/players/sophie/invocations/eyes-of-the-rune-keeper/","noteIcon":""}
+{"dg-publish":true,"permalink":"/players/sophie/invocations/eyes-of-the-rune-keeper/"}
 ---
 
 **Level Required:** 2  

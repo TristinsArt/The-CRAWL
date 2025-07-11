@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/players/austin/fighter/","noteIcon":""}
+{"dg-publish":true,"permalink":"/players/austin/fighter/"}
 ---
 
 

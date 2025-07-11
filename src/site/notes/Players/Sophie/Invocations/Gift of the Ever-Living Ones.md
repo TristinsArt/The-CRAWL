@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/players/sophie/invocations/gift-of-the-ever-living-ones/","noteIcon":""}
+{"dg-publish":true,"permalink":"/players/sophie/invocations/gift-of-the-ever-living-ones/"}
 ---
 
 **Level Required:** 2  

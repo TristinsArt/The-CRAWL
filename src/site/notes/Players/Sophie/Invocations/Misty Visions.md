@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/players/sophie/invocations/misty-visions/","noteIcon":""}
+{"dg-publish":true,"permalink":"/players/sophie/invocations/misty-visions/"}
 ---
 
 **Level Required:** 2  

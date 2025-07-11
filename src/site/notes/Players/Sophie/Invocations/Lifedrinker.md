@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/players/sophie/invocations/lifedrinker/","noteIcon":""}
+{"dg-publish":true,"permalink":"/players/sophie/invocations/lifedrinker/"}
 ---
 
 **Level Required:** 12  

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/players/sophie/invocations/aspect-of-the-moon/","noteIcon":""}
+{"dg-publish":true,"permalink":"/players/sophie/invocations/aspect-of-the-moon/"}
 ---
 
 **Level Required:** 2  

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/players/austin/fighting-styles/thrown-weapon-fighting/","noteIcon":""}
+{"dg-publish":true,"permalink":"/players/austin/fighting-styles/thrown-weapon-fighting/"}
 ---
 
 You can draw a weapon that has the thrown property as part of the attack you make with the weapon.

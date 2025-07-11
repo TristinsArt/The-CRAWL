@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/players/sophie/invocations/sculptor-of-flesh/","noteIcon":""}
+{"dg-publish":true,"permalink":"/players/sophie/invocations/sculptor-of-flesh/"}
 ---
 
 **Level Required:** 7  

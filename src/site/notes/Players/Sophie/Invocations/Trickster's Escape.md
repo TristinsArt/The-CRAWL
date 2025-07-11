@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/players/sophie/invocations/trickster-s-escape/","noteIcon":""}
+{"dg-publish":true,"permalink":"/players/sophie/invocations/trickster-s-escape/"}
 ---
 
 **Level Required:** 7  

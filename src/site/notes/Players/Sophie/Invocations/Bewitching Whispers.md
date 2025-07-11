@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/players/sophie/invocations/bewitching-whispers/","noteIcon":""}
+{"dg-publish":true,"permalink":"/players/sophie/invocations/bewitching-whispers/"}
 ---
 
 **Level Required:** 7  

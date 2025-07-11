@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/players/austin/maneuvers/bait-and-switch/","noteIcon":""}
+{"dg-publish":true,"permalink":"/players/austin/maneuvers/bait-and-switch/"}
 ---
 
 When you're within 5 feet of a creature on your turn, you can expend one superiority die and switch places with that creature, provided you spend at least 5 feet of movement and the creature is willing and isn't [[Rules/References/Conditions/Incapacitated\|incapacitated]]. This movement doesn't provoke opportunity attacks.

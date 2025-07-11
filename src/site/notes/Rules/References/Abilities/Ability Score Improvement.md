@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rules/references/abilities/ability-score-improvement/","tags":["gardenEntry"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/rules/references/abilities/ability-score-improvement/"}
 ---
 
 

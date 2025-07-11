@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/players/sophie/invocations/eldritch-mind/","noteIcon":""}
+{"dg-publish":true,"permalink":"/players/sophie/invocations/eldritch-mind/"}
 ---
 
 **Level Required:** 2  

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/players/sophie/invocations/cloak-of-flies/","noteIcon":""}
+{"dg-publish":true,"permalink":"/players/sophie/invocations/cloak-of-flies/"}
 ---
 
 **Level Required:** 5  

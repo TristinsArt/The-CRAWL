@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/players/sophie/invocations/voice-of-the-chain-master/","noteIcon":""}
+{"dg-publish":true,"permalink":"/players/sophie/invocations/voice-of-the-chain-master/"}
 ---
 
 **Level Required:** 2  

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/players/sophie/invocations/bond-of-the-talisman/","noteIcon":""}
+{"dg-publish":true,"permalink":"/players/sophie/invocations/bond-of-the-talisman/"}
 ---
 
 **Level Required:** 12  

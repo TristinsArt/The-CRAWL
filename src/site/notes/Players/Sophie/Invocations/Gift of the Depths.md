@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/players/sophie/invocations/gift-of-the-depths/","noteIcon":""}
+{"dg-publish":true,"permalink":"/players/sophie/invocations/gift-of-the-depths/"}
 ---
 
 **Level Required:** 5  

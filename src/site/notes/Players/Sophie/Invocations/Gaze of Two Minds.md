@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/players/sophie/invocations/gaze-of-two-minds/","noteIcon":""}
+{"dg-publish":true,"permalink":"/players/sophie/invocations/gaze-of-two-minds/"}
 ---
 
 **Level Required:** 2  

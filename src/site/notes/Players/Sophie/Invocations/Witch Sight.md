@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/players/sophie/invocations/witch-sight/","noteIcon":""}
+{"dg-publish":true,"permalink":"/players/sophie/invocations/witch-sight/"}
 ---
 
 **Level Required:** 15  

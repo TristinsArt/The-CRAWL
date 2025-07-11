@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/players/sophie/invocations/sign-of-ill-omen/","noteIcon":""}
+{"dg-publish":true,"permalink":"/players/sophie/invocations/sign-of-ill-omen/"}
 ---
 
 **Level Required:** 5  

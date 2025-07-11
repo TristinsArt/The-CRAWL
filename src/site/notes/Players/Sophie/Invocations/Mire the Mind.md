@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/players/sophie/invocations/mire-the-mind/","noteIcon":""}
+{"dg-publish":true,"permalink":"/players/sophie/invocations/mire-the-mind/"}
 ---
 
 **Level Required:** 5  

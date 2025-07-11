@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/players/sophie/invocations/eldritch-sight/","noteIcon":""}
+{"dg-publish":true,"permalink":"/players/sophie/invocations/eldritch-sight/"}
 ---
 
 **Level Required:** 2  

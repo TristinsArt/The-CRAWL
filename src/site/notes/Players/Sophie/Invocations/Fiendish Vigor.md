@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/players/sophie/invocations/fiendish-vigor/","noteIcon":""}
+{"dg-publish":true,"permalink":"/players/sophie/invocations/fiendish-vigor/"}
 ---
 
 **Level Required:** 2  

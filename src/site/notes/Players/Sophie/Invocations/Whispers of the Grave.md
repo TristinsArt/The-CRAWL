@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/players/sophie/invocations/whispers-of-the-grave/","noteIcon":""}
+{"dg-publish":true,"permalink":"/players/sophie/invocations/whispers-of-the-grave/"}
 ---
 
 **Level Required:** 9  

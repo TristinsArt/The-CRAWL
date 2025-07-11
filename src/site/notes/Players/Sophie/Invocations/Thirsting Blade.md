@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/players/sophie/invocations/thirsting-blade/","noteIcon":""}
+{"dg-publish":true,"permalink":"/players/sophie/invocations/thirsting-blade/"}
 ---
 
 **Level Required:** 5  

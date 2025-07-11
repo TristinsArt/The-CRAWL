@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/players/sophie/invocations/devil-s-sight/","noteIcon":""}
+{"dg-publish":true,"permalink":"/players/sophie/invocations/devil-s-sight/"}
 ---
 
 **Level Required:** 2  

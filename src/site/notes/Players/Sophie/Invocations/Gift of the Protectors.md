@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/players/sophie/invocations/gift-of-the-protectors/","noteIcon":""}
+{"dg-publish":true,"permalink":"/players/sophie/invocations/gift-of-the-protectors/"}
 ---
 
 **Level Required:** 9  

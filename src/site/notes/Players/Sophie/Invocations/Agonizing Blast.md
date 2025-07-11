@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/players/sophie/invocations/agonizing-blast/","noteIcon":""}
+{"dg-publish":true,"permalink":"/players/sophie/invocations/agonizing-blast/"}
 ---
 
 **Level Required:** 2  

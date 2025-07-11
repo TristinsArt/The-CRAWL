@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/players/sophie/invocations/master-of-myriad-forms/","noteIcon":""}
+{"dg-publish":true,"permalink":"/players/sophie/invocations/master-of-myriad-forms/"}
 ---
 
 **Level Required:** 15  

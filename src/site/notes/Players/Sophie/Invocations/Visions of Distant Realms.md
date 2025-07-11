@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/players/sophie/invocations/visions-of-distant-realms/","noteIcon":""}
+{"dg-publish":true,"permalink":"/players/sophie/invocations/visions-of-distant-realms/"}
 ---
 
 **Level Required:** 15  

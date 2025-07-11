@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/players/sophie/invocations/otherworldly-leap/","noteIcon":""}
+{"dg-publish":true,"permalink":"/players/sophie/invocations/otherworldly-leap/"}
 ---
 
 **Level Required:** 9  

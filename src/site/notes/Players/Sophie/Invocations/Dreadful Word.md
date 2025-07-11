@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/players/sophie/invocations/dreadful-word/","noteIcon":""}
+{"dg-publish":true,"permalink":"/players/sophie/invocations/dreadful-word/"}
 ---
 
 **Level Required:** 7  

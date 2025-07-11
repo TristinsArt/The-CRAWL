@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/players/sophie/invocations/maddening-hex/","noteIcon":""}
+{"dg-publish":true,"permalink":"/players/sophie/invocations/maddening-hex/"}
 ---
 
 **Level Required:** 5  

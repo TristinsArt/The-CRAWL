@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/players/sophie/invocations/ascendant-step/","noteIcon":""}
+{"dg-publish":true,"permalink":"/players/sophie/invocations/ascendant-step/"}
 ---
 
 **Level Required:** 9  

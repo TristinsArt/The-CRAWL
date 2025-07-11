@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/players/sophie/invocations/ghostly-gaze/","noteIcon":""}
+{"dg-publish":true,"permalink":"/players/sophie/invocations/ghostly-gaze/"}
 ---
 
 **Level Required:** 7  

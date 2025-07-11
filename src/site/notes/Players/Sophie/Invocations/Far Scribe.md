@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/players/sophie/invocations/far-scribe/","noteIcon":""}
+{"dg-publish":true,"permalink":"/players/sophie/invocations/far-scribe/"}
 ---
 
 **Level Required:** 5  

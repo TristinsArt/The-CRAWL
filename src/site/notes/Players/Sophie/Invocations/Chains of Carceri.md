@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/players/sophie/invocations/chains-of-carceri/","noteIcon":""}
+{"dg-publish":true,"permalink":"/players/sophie/invocations/chains-of-carceri/"}
 ---
 
 **Level Required:** 15  

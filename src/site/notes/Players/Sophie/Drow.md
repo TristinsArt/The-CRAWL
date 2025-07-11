@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/players/sophie/drow/","noteIcon":""}
+{"dg-publish":true,"permalink":"/players/sophie/drow/"}
 ---
 
 ### Superior Darkvision

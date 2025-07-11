@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/players/sophie/invocations/beguiling-influence/","noteIcon":""}
+{"dg-publish":true,"permalink":"/players/sophie/invocations/beguiling-influence/"}
 ---
 
 **Level Required:** 2  

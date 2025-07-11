@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/players/sophie/invocations/relentless-hex/","noteIcon":""}
+{"dg-publish":true,"permalink":"/players/sophie/invocations/relentless-hex/"}
 ---
 
 **Level Required:** 7  

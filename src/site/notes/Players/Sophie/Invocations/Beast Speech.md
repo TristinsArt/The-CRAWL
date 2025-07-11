@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/players/sophie/invocations/beast-speech/","noteIcon":""}
+{"dg-publish":true,"permalink":"/players/sophie/invocations/beast-speech/"}
 ---
 
 **Level Required:** 2  

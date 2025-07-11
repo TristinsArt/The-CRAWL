@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/players/sophie/warlock-spells/","noteIcon":""}
+{"dg-publish":true,"permalink":"/players/sophie/warlock-spells/"}
 ---
 
 

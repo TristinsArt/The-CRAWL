@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/players/sophie/invocations/minions-of-chaos/","noteIcon":""}
+{"dg-publish":true,"permalink":"/players/sophie/invocations/minions-of-chaos/"}
 ---
 
 **Level Required:** 9  

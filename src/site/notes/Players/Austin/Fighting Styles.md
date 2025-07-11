@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/players/austin/fighting-styles/","noteIcon":""}
+{"dg-publish":true,"permalink":"/players/austin/fighting-styles/"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/players/sophie/invocations/grasp-of-hadar/","noteIcon":""}
+{"dg-publish":true,"permalink":"/players/sophie/invocations/grasp-of-hadar/"}
 ---
 
 **Level Required:** 2  

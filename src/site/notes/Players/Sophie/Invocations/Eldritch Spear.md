@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/players/sophie/invocations/eldritch-spear/","noteIcon":""}
+{"dg-publish":true,"permalink":"/players/sophie/invocations/eldritch-spear/"}
 ---
 
 **Level Required:** 2  

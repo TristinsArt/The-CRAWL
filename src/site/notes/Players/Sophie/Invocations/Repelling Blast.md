@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/players/sophie/invocations/repelling-blast/","noteIcon":""}
+{"dg-publish":true,"permalink":"/players/sophie/invocations/repelling-blast/"}
 ---
 
 **Level Required:** 2  

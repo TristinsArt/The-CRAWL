@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/players/sophie/invocations/eldritch-smite/","noteIcon":""}
+{"dg-publish":true,"permalink":"/players/sophie/invocations/eldritch-smite/"}
 ---
 
 **Level Required:** 5  

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/players/sophie/invocations/armor-of-shadows/","noteIcon":""}
+{"dg-publish":true,"permalink":"/players/sophie/invocations/armor-of-shadows/"}
 ---
 
 **Level Required:** 2  

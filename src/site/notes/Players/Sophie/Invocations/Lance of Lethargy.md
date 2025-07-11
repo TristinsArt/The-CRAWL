@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/players/sophie/invocations/lance-of-lethargy/","noteIcon":""}
+{"dg-publish":true,"permalink":"/players/sophie/invocations/lance-of-lethargy/"}
 ---
 
 **Level Required:** 2  

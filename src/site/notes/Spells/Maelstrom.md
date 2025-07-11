@@ -1,0 +1,12 @@
+---
+{"dg-publish":true,"permalink":"/spells/maelstrom/"}
+---
+
+**Level:** 5th-level
+**Casting Time:** 1 action
+**Range:** 120 feet
+**Components:** V, S, M (paper or leaf in the shape of a funnel)
+**Duration:** 1 minute (Concentration)
+**School:** [[Spells/Schools of Magic/Enchantment\|Enchantment]]
+
+A swirling mass of 5-foot-deep water appears in a 30-foot radius centered on a point you can see within range. The point must be on the ground or in a body of water. Until the spell ends, that area is _"difficult terrain||3"_, and any creature that starts its turn there must succeed on a Strength saving throw or take **6d6** bludgeoning damage and be pulled 10 feet toward the center.

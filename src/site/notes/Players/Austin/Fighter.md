@@ -47,13 +47,13 @@ Once you use this feature, you must finish a short or long rest before you can u
 ## Martial Archetype
 At 3rd level, you choose an archetype from the list available that you strive to emulate in your combat styles and techniques. The archetype you choose grants you features at 3rd level and again at [[Players/Austin/Fighter#**LVL 7**\|7th]], [[Players/Austin/Fighter#**LVL 10**\|10th]], [[Players/Austin/Fighter#**LVL 15**\|15th]], and [[Players/Austin/Fighter#**LVL 18**\|18th]] level.
 
-### Battle Master :LiVenetianMask:
+### _Battle Master_
 Those who emulate the archetypal Battle Master employ martial techniques passed down through generations. To a Battle Master, combat is an academic field, sometimes including subjects beyond battle such as weapon smithing and calligraphy. Not every fighter absorbs the lessons of history, theory, and artistry that are reflected in the Battle Master archetype, but those who do are well-rounded fighters of great skill and knowledge.
 
-### Student of War :LiVenetianMask:
+### _Student of War_
 At 3rd level, you gain proficiency with one type of [artisan's tools](https://2014.5e.tools/items.html#blankhash,flstsource:phb=1,flstmiscellaneous:mundane=1,flsttype:artisan's%20tools=1) of your choice.
 
-### Combat Superiority :LiVenetianMask:
+### _Combat Superiority_
 When you choose this archetype at 3rd level, you learn maneuvers that are fueled by special dice called [[Rules/References/Mechanics/Superiority Die\|Superiority Dice]].
 
 **Maneuvers.** You learn three [[Players/Austin/Maneuvers\|maneuvers]] of your choice, which are listed under "[[Players/Austin/Maneuvers\|Maneuvers]]". Many [[Players/Austin/Maneuvers\|maneuvers]] enhance an attack in some way. You can use only one maneuver per attack.
@@ -68,7 +68,7 @@ You gain another [[Rules/References/Mechanics/Superiority Die\|superiority die]]
 
 **Maneuver save DC** = 8 + [[Rules/References/Abilities/Strength\|Strength]] or [[Rules/References/Abilities/Dexterity\|Dexterity]] modifier (your choice) + Proficiency Bonus
 
-### Maneuver Options :LiVenetianMask:
+### _Maneuver Options_
 _3rd-level fighter optional feature_
 
 If you have access to maneuvers, the following maneuvers are added to the list of options available to you. Maneuvers are available to Battle Masters but also to characters who have a special feature like the Superior Technique fighting style or the Martial Adept feat.
@@ -93,13 +93,13 @@ The number of attacks increases to three when you reach [[Players/Austin/Fighter
 Don't forget [[#Martial Versatility]]
 
 # **LVL 7**
-## Additional [[Players/Austin/Maneuvers\|Maneuvers]] :LiVenetianMask:
+## _Additional [[Players/Austin/Maneuvers\|Maneuvers]]_
 At 7th level, you learn two additional [[Players/Austin/Maneuvers\|maneuvers]] of your choice.
 
-## Additional [[Rules/References/Mechanics/Superiority Die\|Superiority Die]] :LiVenetianMask:
+## _Additional [[Rules/References/Mechanics/Superiority Die\|Superiority Die]]_
 You gain another [[Rules/References/Mechanics/Superiority Die\|superiority die]] at 7th level.
 
-## Know Your Enemy :LiVenetianMask:
+## _Know Your Enemy_
 If you spend at least 1 minute observing or interacting with another creature outside combat, you can learn certain information about its capabilities compared to your own. The DM tells you if the creature is your equal, superior, or inferior in regard to two of the following characteristics of your choice:
 
 - [[Rules/References/Abilities/Strength\|Strength]] score
@@ -121,10 +121,10 @@ Beginning at 9th level, you can reroll a saving throw that you fail. If you do s
 You can use this feature twice between long rests starting at [[Players/Austin/Fighter#**LVL 13**\|13th]] level and three times between long rests starting at [[Players/Austin/Fighter#**LVL 17**\|17th]] level.
 
 # **LVL 10**
-## Additional [[Players/Austin/Maneuvers\|Maneuvers]] :LiVenetianMask:
+## _Additional [[Players/Austin/Maneuvers\|Maneuvers]]_
 At 10th level, you learn two additional [[Players/Austin/Maneuvers\|maneuvers]] of your choice.
 
-## Improved Combat Superiority :LiVenetianMask:
+## _Improved Combat Superiority_
 At 10th level, your [[Rules/References/Mechanics/Superiority Die\|superiority dice]] turn into d10s.
 
 # **LVL 11**
@@ -144,10 +144,10 @@ At 13th level, you can use [[#Indomitable]] twice between long rests.
 Don't forget [[#Martial Versatility]]
 
 # **LVL 15**
-## Additional [[Players/Austin/Maneuvers\|Maneuvers]] :LiVenetianMask:
+## _Additional [[Players/Austin/Maneuvers\|Maneuvers]]_
 At 15th level, you learn two additional [[Players/Austin/Maneuvers\|maneuvers]] of your choice.
 
-## Additional [[Rules/References/Mechanics/Superiority Die\|Superiority Die]] :LiVenetianMask:
+## _Additional [[Rules/References/Mechanics/Superiority Die\|Superiority Die]]_
 You gain another [[Rules/References/Mechanics/Superiority Die\|superiority die]] at 15th level.
 
 # **LVL 16**
@@ -161,7 +161,7 @@ At 17th level, you can use [[#Action Surge]] twice before a rest, but only once 
 At 17th level, you can use [[#Indomitable]] three times between long rests.
 
 # **LVL 18**
-## Improved Combat Superiority :LiVenetianMask:
+## _Improved Combat Superiority_
 At 18th level, your [[Rules/References/Mechanics/Superiority Die\|superiority dice]] turn into d12s.
 
 # **LVL 19**

@@ -5,28 +5,28 @@
 
 # **Levels**
 
-| Level               | Proficiency Bonus | Features                                                              |
-| ------------------- | ----------------- | --------------------------------------------------------------------- |
-| [[#LVL 1\|1]]       | +2                | [[#Fighting Styles Fighting Style\|Fighting Style]], [[#Second Wind]] |
-| [[#LVL 2\|2]]       | +2                | [[#Action Surge]]                                                     |
-| [[#LVL 3\|3]]       | +2                | [[#Martial Archetype]]                                                |
-| [[#**LVL 4**\|4]]   | +2                | [[Rules/References/Abilities/Ability Score Improvement\|Ability Score Improvement]], [[#Martial Versatility]]               |
-| [[#**LVL 5**\|5]]   | +3                | [[#Extra Attack]]                                                     |
-| [[#**LVL 6**\|6]]   | +3                | [[Rules/References/Abilities/Ability Score Improvement\|Ability Score Improvement]]                                         |
-| [[#**LVL 7**\|7]]   | +3                | [[#**LVL 7**\|Martial Archetype Feature]]                             |
-| [[#**LVL 8**\|8]]   | +3                | [[Rules/References/Abilities/Ability Score Improvement\|Ability Score Improvement]]                                         |
-| [[#**LVL 9**\|9]]   | +4                | [[#Indomitable]]                                                      |
-| [[#**LVL 10**\|10]] | +4                | [[#**LVL 10**\|Martial Archetype Feature]]                            |
-| [[#**LVL 11**\|11]] | +4                | [[#Extra Attack (2)]]                                                 |
-| [[#**LVL 12**\|12]] | +4                | [[Rules/References/Abilities/Ability Score Improvement\|Ability Score Improvement]]                                         |
-| [[#**LVL 13**\|13]] | +5                | [[#Indomitable (2)]]                                                  |
-| [[#**LVL 14**\|14]] | +5                | [[Rules/References/Abilities/Ability Score Improvement\|Ability Score Improvement]]                                         |
-| [[#**LVL 15**\|15]] | +5                | [[#**LVL 15**\|Martial Archetype Feature]]                            |
-| [[#**LVL 16**\|16]] | +5                | [[Rules/References/Abilities/Ability Score Improvement\|Ability Score Improvement]]                                         |
-| [[#**LVL 17**\|17]] | +6                | [[#Action Surge (2)]], [[#Indomitable (3)]]                           |
-| [[#**LVL 18**\|18]] | +6                | [[#**LVL 18**\|Martial Archetype Feature]]                            |
-| [[#**LVL 19**\|19]] | +6                | [[Rules/References/Abilities/Ability Score Improvement\|Ability Score Improvement]]                                         |
-| [[#**LVL 20**\|20]] | +6                | [[#Extra Attack (3)]]                                                 |
+| Level                    | Proficiency Bonus | Features                                                              |
+| ------------------------ | ----------------- | --------------------------------------------------------------------- |
+| [[Players/Austin/Fighter#**LVL 1**\|1]] | +2                | [[#Fighting Styles Fighting Style\|Fighting Style]], [[#Second Wind]] |
+| [[#LVL 2\|2]]            | +2                | [[#Action Surge]]                                                     |
+| [[#LVL 3\|3]]            | +2                | [[#Martial Archetype]]                                                |
+| [[#**LVL 4**\|4]]        | +2                | [[Rules/References/Abilities/Ability Score Improvement\|Ability Score Improvement]], [[#Martial Versatility]]               |
+| [[#**LVL 5**\|5]]        | +3                | [[#Extra Attack]]                                                     |
+| [[#**LVL 6**\|6]]        | +3                | [[Rules/References/Abilities/Ability Score Improvement\|Ability Score Improvement]]                                         |
+| [[#**LVL 7**\|7]]        | +3                | [[#**LVL 7**\|Martial Archetype Feature]]                             |
+| [[#**LVL 8**\|8]]        | +3                | [[Rules/References/Abilities/Ability Score Improvement\|Ability Score Improvement]]                                         |
+| [[#**LVL 9**\|9]]        | +4                | [[#Indomitable]]                                                      |
+| [[#**LVL 10**\|10]]      | +4                | [[#**LVL 10**\|Martial Archetype Feature]]                            |
+| [[#**LVL 11**\|11]]      | +4                | [[#Extra Attack (2)]]                                                 |
+| [[#**LVL 12**\|12]]      | +4                | [[Rules/References/Abilities/Ability Score Improvement\|Ability Score Improvement]]                                         |
+| [[#**LVL 13**\|13]]      | +5                | [[#Indomitable (2)]]                                                  |
+| [[#**LVL 14**\|14]]      | +5                | [[Rules/References/Abilities/Ability Score Improvement\|Ability Score Improvement]]                                         |
+| [[#**LVL 15**\|15]]      | +5                | [[#**LVL 15**\|Martial Archetype Feature]]                            |
+| [[#**LVL 16**\|16]]      | +5                | [[Rules/References/Abilities/Ability Score Improvement\|Ability Score Improvement]]                                         |
+| [[#**LVL 17**\|17]]      | +6                | [[#Action Surge (2)]], [[#Indomitable (3)]]                           |
+| [[#**LVL 18**\|18]]      | +6                | [[#**LVL 18**\|Martial Archetype Feature]]                            |
+| [[#**LVL 19**\|19]]      | +6                | [[Rules/References/Abilities/Ability Score Improvement\|Ability Score Improvement]]                                         |
+| [[#**LVL 20**\|20]]      | +6                | [[#Extra Attack (3)]]                                                 |
 
 # **LVL 1**
 ## [[Players/Austin/Fighting Styles\|Fighting Style]]

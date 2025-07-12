@@ -14,5 +14,5 @@ The wind has the following effects:
 - It deafens you and other creatures in its area.
 - It extinguishes unprotected flames in its area that are torch-sized or smaller.
 - It hedges out vapor, gas, and fog that can be dispersed by strong wind.
-- The area is difficult terrain for creatures other than you.
+- The area is [[Rules/References/Mechanics/Movement#difficult terrain\|difficult terrain]] for creatures other than you.
 - The attack rolls of ranged weapon attacks have disadvantage if the attacks pass in or out of the wind.

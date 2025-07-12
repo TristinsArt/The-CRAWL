@@ -188,7 +188,7 @@ While projecting your spirit, you gain the following benefits:
 
 - Your spirit and body gain resistance to bludgeoning, piercing, and slashing damage.
 - When you cast a spell of the [[Spells/Schools of Magic/Conjuration\|conjuration]] or [[Spells/Schools of Magic/Necromancy\|necromancy]] school, the spell doesn't require verbal or somatic components or material components that lack a gold cost.
-- You have a flying speed equal to your walking speed and can hover. You can move through creatures and objects as if they were [[Rules/References/Mechanics/Movement#Difficult Terrain\|difficult terrain]], but you take 1d10 force damage if you end your turn inside a creature or an object.
+- You have a flying speed equal to your walking speed and can hover. You can move through creatures and objects as if they were [[Rules/References/Mechanics/Movement#difficult terrain\|difficult terrain]], but you take 1d10 force damage if you end your turn inside a creature or an object.
 - While you are using your [[Players/Sophie/Warlock#_Form of Dread_\|Form of Dread]], once during each of your turns when you deal necrotic damage to a creature, you regain hit points equal to half the amount of necrotic damage dealt.
 
 Once you use this feature, you can't do so again until you finish a long rest.

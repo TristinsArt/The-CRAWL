@@ -9,5 +9,5 @@
 **Duration:** 1 hour
 **School:** [[Spells/Schools of Magic/Abjuration\|Abjuration]]
 
-You touch a willing creature. For the duration, the target's movement is unaffected by _[[Rules/References/Mechanics/Movement#Difficult Terrain\|difficult terrain]]_, and spells and other magical effects can neither reduce the target's speed nor cause the target to be [[Rules/References/Conditions/Paralyzed\|paralyzed]] or [[Rules/References/Conditions/Restrained\|restrained]].
+You touch a willing creature. For the duration, the target's movement is unaffected by [[Rules/References/Mechanics/Movement#difficult terrain\|difficult terrain]], and spells and other magical effects can neither reduce the target's speed nor cause the target to be [[Rules/References/Conditions/Paralyzed\|paralyzed]] or [[Rules/References/Conditions/Restrained\|restrained]].
 The target can also spend 5 feet of movement to automatically escape from nonmagical restraints, such as manacles or a creature that has it [[Rules/References/Conditions/Grappled\|grappled]]. Finally, being underwater imposes no penalties on the target's movement or attacks.

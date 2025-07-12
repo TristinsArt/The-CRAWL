@@ -10,7 +10,7 @@
 **School:** [[Spells/Schools of Magic/Evocation\|Evocation]]
 
 You create a seismic disturbance at a point on the ground that you can see within range. For the duration, an intense tremor rips through the ground in a 100-foot-radius circle centered on that point and shakes creatures and structures in contact with the ground in that area.
-The ground in the area becomes difficult terrain. Each creature on the ground that is concentrating must make a Constitution saving throw. On a failed save, the creature's [[Rules/References/Mechanics/Concentration\|concentration]] is broken.
+The ground in the area becomes [[Rules/References/Mechanics/Movement#difficult terrain\|difficult terrain]]. Each creature on the ground that is concentrating must make a Constitution saving throw. On a failed save, the creature's [[Rules/References/Mechanics/Concentration\|concentration]] is broken.
 When you cast this spell and at the end of each turn you spend concentrating on it, each creature on the ground in the area must make a Dexterity saving throw. On a failed save, the creature is knocked [[Rules/References/Conditions/Prone\|prone]].
 This spell can have additional effects depending on the terrain in the area, as determined by the DM.
 _Fissures_

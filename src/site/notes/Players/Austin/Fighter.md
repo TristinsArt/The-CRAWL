@@ -33,7 +33,7 @@
 You adopt a particular style of fighting as your specialty. Choose one of the following options. You can't take the same Fighting Style option more than once, even if you get to choose again.
 
 ## Second Wind
-You have a limited well of stamina that you can draw on to protect yourself from harm. On your turn, you can use a bonus action to regain hit points equal to 1d10 + your fighter level.
+You have a limited well of stamina that you can draw on to protect yourself from harm. On your turn, you can use a [[Rules/References/Mechanics/Bonus Action\|bonus action]] to regain [[Rules/References/Mechanics/Hit Points\|hit points]] equal to 1d10 + your fighter level.
 
 Once you use this feature, you must finish a short or long rest before you can use it again.
 
@@ -54,37 +54,37 @@ Those who emulate the archetypal Battle Master employ martial techniques passed 
 At 3rd level, you gain proficiency with one type of [artisan's tools](https://2014.5e.tools/items.html#blankhash,flstsource:phb=1,flstmiscellaneous:mundane=1,flsttype:artisan's%20tools=1) of your choice.
 
 ### _Combat Superiority_
-When you choose this archetype at 3rd level, you learn maneuvers that are fueled by special dice called [[Rules/References/Mechanics/Superiority Die\|Superiority Dice]].
+When you choose this archetype at 3rd level, you learn [[Players/Austin/Maneuvers\|maneuvers]] that are fueled by special dice called [[Rules/References/Mechanics/Superiority Die\|Superiority Dice]].
 
-**Maneuvers.** You learn three [[Players/Austin/Maneuvers\|maneuvers]] of your choice, which are listed under "[[Players/Austin/Maneuvers\|Maneuvers]]". Many [[Players/Austin/Maneuvers\|maneuvers]] enhance an attack in some way. You can use only one maneuver per attack.
+**[[Players/Austin/Maneuvers\|Maneuvers]].** You learn three [[Players/Austin/Maneuvers\|maneuvers]] of your choice, which are listed under "[[Players/Austin/Maneuvers\|Maneuvers]]". Many [[Players/Austin/Maneuvers\|maneuvers]] enhance an [[Rules/References/Actions/Attack\|attack]] in some way. You can use only one maneuver per [[Rules/References/Actions/Attack\|attack]].
 
-You learn two additional maneuvers of your choice at [[Players/Austin/Fighter#**LVL 7**\|7th]], [[Players/Austin/Fighter#**LVL 10**\|10th]], and [[Players/Austin/Fighter#**LVL 15**\|15th]] level. Each time you learn new maneuvers, you can also replace one maneuver you know with a different one.
+You learn two additional [[Players/Austin/Maneuvers\|maneuvers]] of your choice at [[Players/Austin/Fighter#**LVL 7**\|7th]], [[Players/Austin/Fighter#**LVL 10**\|10th]], and [[Players/Austin/Fighter#**LVL 15**\|15th]] level. Each time you learn new [[Players/Austin/Maneuvers\|maneuvers]], you can also replace one maneuver you know with a different one.
 
-**Superiority Dice.** You have four [[Rules/References/Mechanics/Superiority Die\|Superiority Dice]], which are d8s. A superiority die is expended when you use it. You regain all of your expended [[Rules/References/Mechanics/Superiority Die\|Superiority Dice]] when you finish a short or long rest.
+**Superiority Dice.** You have four [[Rules/References/Mechanics/Superiority Die\|Superiority Dice]], which are d8s. A [[Rules/References/Mechanics/Superiority Die\|superiority die]] is expended when you use it. You regain all of your expended [[Rules/References/Mechanics/Superiority Die\|Superiority Dice]] when you finish a short or long rest.
 
 You gain another [[Rules/References/Mechanics/Superiority Die\|superiority die]] at [[Players/Austin/Fighter#**LVL 7**\|7th]] level and one more at [[Players/Austin/Fighter#**LVL 15**\|15th]] level.
 
-**Saving Throws.** Some of your [[Players/Austin/Maneuvers\|maneuvers]] require your target to make a saving throw to resist the maneuver's effects. The saving throw DC is calculated as follows:
+**Saving Throws.** Some of your [[Players/Austin/Maneuvers\|maneuvers]] require your target to make a [[Rules/References/Mechanics/Saving Throw\|saving throw]] to resist the maneuver's effects. The [[Rules/References/Mechanics/Saving Throw\|saving throw]] DC is calculated as follows:
 
 **Maneuver save DC** = 8 + [[Rules/References/Abilities/Strength\|Strength]] or [[Rules/References/Abilities/Dexterity\|Dexterity]] modifier (your choice) + Proficiency Bonus
 
 ### _Maneuver Options_
 _3rd-level fighter optional feature_
 
-If you have access to maneuvers, the following maneuvers are added to the list of options available to you. Maneuvers are available to Battle Masters but also to characters who have a special feature like the Superior Technique fighting style or the Martial Adept feat.
+If you have access to [[Players/Austin/Maneuvers\|maneuvers]], the following [[Players/Austin/Maneuvers\|maneuvers]] are added to the list of options available to you. [[Players/Austin/Maneuvers\|Maneuvers]] are available to Battle Masters but also to characters who have a special feature like the Superior Technique fighting style or the Martial Adept feat.
 
 # **LVL 4**
 ## [[Rules/References/Abilities/Ability Score Improvement\|Ability Score Improvement]]
 ### Martial Versatility
 _4th-level fighter optional feature_
-Whenever you reach a level in this class that grants the Ability Score Improvement feature, you can do one of the following, as you shift the focus of your martial practice:
+Whenever you reach a level in this class that grants the [[Rules/References/Abilities/Ability Score Improvement\|Ability Score Improvement]] feature, you can do one of the following, as you shift the focus of your martial practice:
 
 - Replace a [[Players/Austin/Fighting Styles\|fighting style]] you know with another fighting style available to fighters.
 - If you know any [[Players/Austin/Maneuvers\|maneuvers]] from the Battle Master archetype, you can replace one maneuver you know with a different maneuver.
 
 # **LVL 5**
 ## Extra Attack
-Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.
+Beginning at 5th level, you can [[Rules/References/Actions/Attack\|attack]] twice, instead of once, whenever you take the [[Rules/References/Actions/Attack\|Attack]] action on your turn.
 
 The number of attacks increases to three when you reach [[Players/Austin/Fighter#**LVL 11**\|11th]] level in this class and to four when you reach [[Players/Austin/Fighter#**LVL 20**\|20th]] level in this class.
 
@@ -93,7 +93,7 @@ The number of attacks increases to three when you reach [[Players/Austin/Fighter
 Don't forget [[#Martial Versatility]]
 
 # **LVL 7**
-## _Additional [[Players/Austin/Maneuvers\|Maneuvers]]_
+## _Additional Maneuvers_
 At 7th level, you learn two additional [[Players/Austin/Maneuvers\|maneuvers]] of your choice.
 
 ## _Additional [[Rules/References/Mechanics/Superiority Die\|Superiority Die]]_
@@ -116,12 +116,12 @@ Don't forget [[#Martial Versatility]]
 
 # **LVL 9**
 ## Indomitable
-Beginning at 9th level, you can reroll a saving throw that you fail. If you do so, you must use the new roll, and you can't use this feature again until you finish a long rest.
+Beginning at 9th level, you can reroll a [[Rules/References/Mechanics/Saving Throw\|saving throw]] that you fail. If you do so, you must use the new roll, and you can't use this feature again until you finish a long rest.
 
 You can use this feature twice between long rests starting at [[Players/Austin/Fighter#**LVL 13**\|13th]] level and three times between long rests starting at [[Players/Austin/Fighter#**LVL 17**\|17th]] level.
 
 # **LVL 10**
-## _Additional [[Players/Austin/Maneuvers\|Maneuvers]]_
+## _Additional Maneuvers_
 At 10th level, you learn two additional [[Players/Austin/Maneuvers\|maneuvers]] of your choice.
 
 ## _Improved Combat Superiority_
@@ -129,7 +129,7 @@ At 10th level, your [[Rules/References/Mechanics/Superiority Die\|superiority di
 
 # **LVL 11**
 ## Extra Attack (2)
-At 11th level, you can attack three times whenever you take the [[Rules/References/Actions/Attack\|Attack]] action on your turn.
+At 11th level, you can [[Rules/References/Actions/Attack\|attack]] three times whenever you take the [[Rules/References/Actions/Attack\|Attack]] action on your turn.
 
 # **LVL 12**
 ## [[Rules/References/Abilities/Ability Score Improvement\|Ability Score Improvement]]
@@ -144,10 +144,10 @@ At 13th level, you can use [[#Indomitable]] twice between long rests.
 Don't forget [[#Martial Versatility]]
 
 # **LVL 15**
-## _Additional [[Players/Austin/Maneuvers\|Maneuvers]]_
+## _Additional Maneuvers_
 At 15th level, you learn two additional [[Players/Austin/Maneuvers\|maneuvers]] of your choice.
 
-## _Additional [[Rules/References/Mechanics/Superiority Die\|Superiority Die]]_
+## _Additional Superiority Die_
 You gain another [[Rules/References/Mechanics/Superiority Die\|superiority die]] at 15th level.
 
 # **LVL 16**
@@ -170,4 +170,4 @@ Don't forget [[#Martial Versatility]]
 
 # **LVL 20**
 ## Extra Attack (3)
-At 20th level, you can attack four times whenever you take the [[Rules/References/Actions/Attack\|Attack]] action on your turn.
+At 20th level, you can [[Rules/References/Actions/Attack\|attack]] four times whenever you take the [[Rules/References/Actions/Attack\|Attack]] action on your turn.

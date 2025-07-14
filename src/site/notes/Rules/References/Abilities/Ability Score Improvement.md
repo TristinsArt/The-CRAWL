@@ -30,7 +30,7 @@ These alternate features provide flexibility and let you fine-tune your characte
 ## Relevant To
 
 The ASI is relevant to **all classes** including:
-- [[Barbarian\|Barbarian]], [[Bard\|Bard]], [[Players/Tim/Cleric\|Cleric]], [[Players/Rayne/Druid\|Druid]], [[Players/Austin/Fighter\|Fighter]], [[Monk\|Monk]], [[Players/Matt/Paladin\|Paladin]], [[Ranger\|Ranger]], [[Rogue\|Rogue]], [[Sorcerer\|Sorcerer]], [[Players/Sophie/Warlock\|Warlock]], and [[Wizard\|Wizard]]
+- Barbarian, Bard, [[Players/Tim/Cleric\|Cleric]], [[Players/Rayne/Druid\|Druid]], [[Players/Austin/Fighter\|Fighter]], Monk, [[Players/Matt/Paladin\|Paladin]], Ranger, Rogue, Sorcerer, [[Players/Sophie/Warlock\|Warlock]], and Wizard
 
 Be sure to consult your class progression table to know when you gain ASI options.
 

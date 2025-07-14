@@ -37,23 +37,23 @@ Your arcane research and the magic bestowed on you by your patron have given you
 You know two cantrips of your choice from the warlock spell list. You learn additional warlock cantrips of your choice at higher levels, as shown in the Cantrips Known column of the Warlock table.
 
 ### Spell Slots
-The Warlock table shows how many spell slots you have to cast your [[Players/Sophie/Warlock Spells\|warlock spells]] of 1st through 5th level. The table also shows what the level of those slots is; all of your spell slots are the same level. To cast one of your warlock spells of 1st level or higher, you must expend a spell slot. You regain all expended spell slots when you finish a short or long rest.
+The Warlock table shows how many spell slots you have to cast your [[Players/Sophie/Warlock Spells\|warlock spells]] of 1st through 5th level. The table also shows what the level of those slots is; all of your spell slots are the same level. To cast one of your [[Players/Sophie/Warlock Spells\|warlock spells]] of 1st level or higher, you must expend a spell slot. You regain all expended spell slots when you finish a short or long rest.
 
 For example, when you are 5th level, you have two 3rd-level spell slots. To cast the 1st-level spell [[Spells/Witch Bolt\|witch bolt]], you must spend one of those slots, and you cast it as a 3rd-level spell.
 
 ### Spells Known of 1st Level and Higher
 At 1st level, you know two 1st-level spells of your choice from the warlock spell list.
 
-The Spells Known column of the Warlock table shows when you learn more warlock spells of your choice of 1st level and higher. A spell you choose must be of a level no higher than what's shown in the table's Slot Level column for your level. When you reach 6th level, for example, you learn a new warlock spell, which can be 1st, 2nd, or 3rd level.
+The Spells Known column of the Warlock table shows when you learn more [[Players/Sophie/Warlock Spells\|warlock spells]] of your choice of 1st level and higher. A spell you choose must be of a level no higher than what's shown in the table's Slot Level column for your level. When you reach 6th level, for example, you learn a new warlock spell, which can be 1st, 2nd, or 3rd level.
 
-Additionally, when you gain a level in this class, you can choose one of the warlock spells you know and replace it with another spell from the warlock spell list, which also must be of a level for which you have spell slots.
+Additionally, when you gain a level in this class, you can choose one of the [[Players/Sophie/Warlock Spells\|warlock spells]] you know and replace it with another spell from the warlock spell list, which also must be of a level for which you have spell slots.
 
 ### Spellcasting Ability
-[[Rules/References/Abilities/Charisma\|Charisma]] is your spellcasting ability for your warlock spells, so you use your [[Rules/References/Abilities/Charisma\|Charisma]] whenever a spell refers to your spellcasting ability. In addition, you use your [[Rules/References/Abilities/Charisma\|Charisma]] modifier when setting the saving throw DC for a warlock spell you cast and when making an attack roll with one.
+[[Rules/References/Abilities/Charisma\|Charisma]] is your spellcasting ability for your [[Players/Sophie/Warlock Spells\|warlock spells]], so you use your [[Rules/References/Abilities/Charisma\|Charisma]] whenever a spell refers to your spellcasting ability. In addition, you use your [[Rules/References/Abilities/Charisma\|Charisma]] modifier when setting the [[Rules/References/Mechanics/Saving Throw\|saving throw]] DC for a warlock spell you cast and when making an [[Rules/References/Actions/Attack\|attack]] roll with one.
 
 **Spell save DC** = 8 + [[Rules/References/Abilities/Charisma\|Charisma]] modifier + Proficiency Bonus
 
-**Spell attack modifier** = [[Rules/References/Abilities/Charisma\|Charisma]] modifier + Proficiency Bonus
+**Spell [[Rules/References/Actions/Attack\|attack]] modifier** = [[Rules/References/Abilities/Charisma\|Charisma]] modifier + Proficiency Bonus
 
 ## Otherworldly Patron
 At 1st level, you have struck a bargain with an otherworldly being chosen from the list of available patrons. Your choice grants you features at 1st level and again at [[Players/Sophie/Warlock#**LVL 6**\|6th]], [[Players/Sophie/Warlock#**LVL 10**\|10th]], and [[Players/Sophie/Warlock#**LVL 14**\|14th]] level.
@@ -64,15 +64,15 @@ You've made a pact with a deathless being, a creature that defies the cycle and 
 ### _Expanded Spell List_
 _1st-level Undead feature_
 
-The Undead lets you choose from an expanded list of spells when you learn a warlock spell. These spells are marked with a :LiSkull:
+The Undead lets you choose from an expanded list of spells when you learn a warlock spell. These spells are marked **_Like This_**
 
 ### _Form of Dread_
 _1st-level Undead feature_
 
 You manifest an aspect of your patron's dreadful power. As a [[Rules/References/Mechanics/Bonus Action\|bonus action]], you transform for 1 minute. You gain the following benefits while transformed:
 
-- You gain temporary hit points equal to 1d10 + your warlock level.
-- Once during each of your turns, when you hit a creature with an attack roll, you can force it to make a [[Rules/References/Abilities/Wisdom\|Wisdom]] saving throw, and if the saving throw fails, the target is [[Rules/References/Conditions/Frightened\|frightened]] of you until the end of your next turn.
+- You gain temporary [[Rules/References/Mechanics/Hit Points\|hit points]] equal to 1d10 + your warlock level.
+- Once during each of your turns, when you hit a creature with an [[Rules/References/Actions/Attack\|attack]] roll, you can force it to make a [[Rules/References/Abilities/Wisdom\|Wisdom]] [[Rules/References/Mechanics/Saving Throw\|saving throw]], and if the [[Rules/References/Mechanics/Saving Throw\|saving throw]] fails, the target is [[Rules/References/Conditions/Frightened\|frightened]] of you until the end of your next turn.
 - You are immune to the [[Rules/References/Conditions/Frightened\|frightened]] condition.
 
 You can transform a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
@@ -81,9 +81,9 @@ The appearance of your Form of Dread reflects some aspect of your patron. For ex
 
 # **LVL 2**
 ## [[Players/Sophie/Eldritch Invocations\|Eldritch Invocations]]
-In your study of occult lore, you have unearthed eldritch invocations, fragments of forbidden knowledge that imbue you with an abiding magical ability.
+In your study of occult lore, you have unearthed [[Players/Sophie/Eldritch Invocations\|eldritch invocations]], fragments of forbidden knowledge that imbue you with an abiding magical ability.
 
-At 2nd level, you gain two eldritch invocations of your choice. A list of the available options can be found on the [[Players/Sophie/Eldritch Invocations\|Eldritch Invocations]] page. When you gain certain warlock levels, you gain additional invocations of your choice, as shown in the Invocations Known column of the Warlock table.
+At 2nd level, you gain two [[Players/Sophie/Eldritch Invocations\|eldritch invocations]] of your choice. A list of the available options can be found on the [[Players/Sophie/Eldritch Invocations\|Eldritch Invocations]] page. When you gain certain warlock levels, you gain additional invocations of your choice, as shown in the Invocations Known column of the Warlock table.
 
 Additionally, when you gain a level in this class, you can choose one of the invocations you know and replace it with another invocation that you could learn at that level.
 
@@ -103,7 +103,7 @@ You learn the [[Spells/Find Familiar\|find familiar]] spell and can cast it as
 
 When you cast the spell, you can choose one of the normal forms for your familiar or one of the following special forms: [imp](https://2014.5e.tools/bestiary.html#imp_mm), [pseudodragon](https://2014.5e.tools/bestiary.html#pseudodragon_mm), [quasit](https://2014.5e.tools/bestiary.html#quasit_mm), or [sprite](https://2014.5e.tools/bestiary.html#sprite_mm).
 
-Additionally, when you take the [[Rules/References/Actions/Attack\|Attack]] action, you can forgo one of your own attacks to allow your familiar to use its reaction to make one attack of its own.
+Additionally, when you take the [[Rules/References/Actions/Attack\|Attack]] action, you can forgo one of your own attacks to allow your familiar to use its [[Rules/References/Mechanics/Reaction\|reaction]] to make one [[Rules/References/Actions/Attack\|attack]] of its own.
 
 ### Pact of the Talisman
 Your patron gives you an amulet, a talisman that can aid the wearer when the need is great. When the wearer fails an ability check, they can add a d4 to the roll, potentially turning the roll into a success. This benefit can be used a number of times equal to your proficiency bonus, and all expended uses are restored when you finish a long rest.
@@ -118,13 +118,13 @@ Your patron gives you a grimoire called a Book of Shadows. When you gain this fe
 ### Eldritch Versatility
 _4th-level warlock_
 
-Whenever you reach a level in this class that grants the Ability Score Improvement feature, you can do one of the following, representing a change of focus in your occult studies:
+Whenever you reach a level in this class that grants the [[Rules/References/Abilities/Ability Score Improvement\|Ability Score Improvement]] feature, you can do one of the following, representing a change of focus in your occult studies:
 
 - Replace one cantrip you learned from this class's Pact Magic feature with another cantrip from the [[Players/Sophie/Warlock Spells\|warlock spell list]]
 - Replace the option you chose for the Pact Boon feature with one of that feature's other options.
 - If you're [[Players/Sophie/Warlock#**LVL 12**\|12th]] level or higher, replace one spell from your Mystic Arcanum feature with another warlock spell of the same level.
 
-If this change makes you ineligible for any of your Eldritch Invocations, you must also replace them now, choosing invocations for which you qualify.
+If this change makes you ineligible for any of your [[Players/Sophie/Eldritch Invocations\|Eldritch Invocations]], you must also replace them now, choosing invocations for which you qualify.
 
 # **LVL 5**
 
@@ -136,7 +136,7 @@ _6th-level Undead feature_
 
 Your patron's powers have a profound effect on your body and magic. You don't need to eat, drink, or breathe.
 
-In addition, once during each of your turns, when you hit a creature with an attack roll and roll damage against the creature, you can replace the damage type with necrotic damage. While you are using your [[Players/Sophie/Warlock#_Form of Dread_\|Form of Dread]], you can roll one additional damage die when determining the necrotic damage the target takes.
+In addition, once during each of your turns, when you hit a creature with an [[Rules/References/Actions/Attack\|attack]] roll and roll damage against the creature, you can replace the damage type with necrotic damage. While you are using your [[Players/Sophie/Warlock#_Form of Dread_\|Form of Dread]], you can roll one additional damage die when determining the necrotic damage the target takes.
 
 # **LVL 7**
 
@@ -156,7 +156,7 @@ _10th-level Undead feature_
 
 Your connection to undeath and necrotic energy now saturates your body. You have resistance to necrotic damage. If you are transformed using your Form of Dread, you instead become immune to necrotic damage.
 
-In addition, when you would be reduced to 0 hit points, you can use your reaction to drop to 1 hit point instead and cause your body to erupt with deathly energy. Each creature of your choice that is within 30 feet of you takes necrotic damage equal to 2d10 + your warlock level. You then gain 1 level of [[Rules/References/Conditions/Exhaustion\|exhaustion]]. Once you use this reaction, you can't do so again until you finish 1d4 long rests.
+In addition, when you would be reduced to 0 [[Rules/References/Mechanics/Hit Points\|hit points]], you can use your [[Rules/References/Mechanics/Reaction\|reaction]] to drop to 1 hit point instead and cause your body to erupt with deathly energy. Each creature of your choice that is within 30 feet of you takes necrotic damage equal to 2d10 + your warlock level. You then gain 1 level of [[Rules/References/Conditions/Exhaustion\|exhaustion]]. Once you use this [[Rules/References/Mechanics/Reaction\|reaction]], you can't do so again until you finish 1d4 long rests.
 
 # **LVL 11**
 ## Mystic Arcanum (6th Level)
@@ -164,7 +164,7 @@ At 11th level, your patron bestows upon you a magical secret called an arcanum. 
 
 You can cast your arcanum spell once without expending a spell slot. You must finish a long rest before you can do so again.
 
-At higher levels, you gain more warlock spells of your choice that can be cast in this way: one 7th-level spell at [[Players/Sophie/Warlock#**LVL 13**\|13th]] level, one 8th-level spell at [[Players/Sophie/Warlock#**LVL 15**\|15th]] level, and one 9th-level spell at [[Players/Sophie/Warlock#**LVL 17**\|17th]] level. You regain all uses of your Mystic Arcanum when you finish a long rest.
+At higher levels, you gain more [[Players/Sophie/Warlock Spells\|warlock spells]] of your choice that can be cast in this way: one 7th-level spell at [[Players/Sophie/Warlock#**LVL 13**\|13th]] level, one 8th-level spell at [[Players/Sophie/Warlock#**LVL 15**\|15th]] level, and one 9th-level spell at [[Players/Sophie/Warlock#**LVL 17**\|17th]] level. You regain all uses of your Mystic Arcanum when you finish a long rest.
 
 # **LVL 12**
 ## [[Rules/References/Abilities/Ability Score Improvement\|Ability Score Improvement]]
@@ -187,9 +187,9 @@ Your spirit resembles your mortal form in almost every way, replicating your gam
 While projecting your spirit, you gain the following benefits:
 
 - Your spirit and body gain resistance to bludgeoning, piercing, and slashing damage.
-- When you cast a spell of the [[Spells/Schools of Magic/Conjuration\|conjuration]] or [[Spells/Schools of Magic/Necromancy\|necromancy]] school, the spell doesn't require verbal or somatic components or material components that lack a gold cost.
+- When you [[Rules/References/Actions/Cast a Spell\|cast a spell]] of the [[Spells/Schools of Magic/Conjuration\|conjuration]] or [[Spells/Schools of Magic/Necromancy\|necromancy]] school, the spell doesn't require verbal or somatic components or material components that lack a gold cost.
 - You have a flying speed equal to your walking speed and can hover. You can move through creatures and objects as if they were [[Rules/References/Mechanics/Movement#difficult terrain\|difficult terrain]], but you take 1d10 force damage if you end your turn inside a creature or an object.
-- While you are using your [[Players/Sophie/Warlock#_Form of Dread_\|Form of Dread]], once during each of your turns when you deal necrotic damage to a creature, you regain hit points equal to half the amount of necrotic damage dealt.
+- While you are using your [[Players/Sophie/Warlock#_Form of Dread_\|Form of Dread]], once during each of your turns when you deal necrotic damage to a creature, you regain [[Rules/References/Mechanics/Hit Points\|hit points]] equal to half the amount of necrotic damage dealt.
 
 Once you use this feature, you can't do so again until you finish a long rest.
 

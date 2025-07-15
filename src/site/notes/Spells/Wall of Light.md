@@ -13,5 +13,5 @@ A shimmering wall of bright light appears at a point you choose within range. Th
 When the wall appears, each creature in its area must make a Constitution saving throw. On a failed save, a creature takes **4d8** radiant damage, and it is [[Rules/References/Conditions/Blinded\|blinded]] for 1 minute. On a successful save, it takes half as much damage and isn't [[Rules/References/Conditions/Blinded\|blinded]]. A [[Rules/References/Conditions/Blinded\|blinded]] creature can make a Constitution saving throw at the end of each of its turns, ending the effect on itself on a success.
 A creature that ends its turn in the wall's area takes **4d8** radiant damage.
 Until the spell ends, you can use an action to launch a beam of radiance from the wall at one creature you can see within 60 feet of it. Make a ranged spell attack. On a hit, the target takes **4d8** radiant damage. Whether you hit or miss, reduce the length of the wall by 10 feet. If the wall's length drops to 0 feet, the spell ends.
-_At Higher Levels_
+**_At Higher Levels_**
 When you cast this spell using a spell slot of 6th level or higher, the damage increases by 1d8 for each slot level above 5th.

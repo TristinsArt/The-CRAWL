@@ -101,7 +101,7 @@ You can transform one magic weapon into your pact weapon by performing a special
 ### Pact of the Chain
 You learn the [[Spells/Find Familiar\|find familiar]] spell and can cast it as a ritual. The spell doesn't count against your number of spells known.
 
-When you cast the spell, you can choose one of the normal forms for your familiar or one of the following special forms: [imp](https://2014.5e.tools/bestiary.html#imp_mm), [pseudodragon](https://2014.5e.tools/bestiary.html#pseudodragon_mm), [quasit](https://2014.5e.tools/bestiary.html#quasit_mm), or [sprite](https://2014.5e.tools/bestiary.html#sprite_mm).
+When you cast the spell, you can choose one of the normal forms for your familiar or one of the following special forms: [imp](https://2014.5e.tools/bestiary.html#imp_mm), [pseudodragon](https://2014.5e.tools/bestiary.html#pseudodragon_mm), [quasit](), or [sprite](https://2014.5e.tools/bestiary.html#sprite_mm).
 
 Additionally, when you take the [[Rules/References/Actions/Attack\|Attack]] action, you can forgo one of your own attacks to allow your familiar to use its [[Rules/References/Mechanics/Reaction\|reaction]] to make one [[Rules/References/Actions/Attack\|attack]] of its own.
 
